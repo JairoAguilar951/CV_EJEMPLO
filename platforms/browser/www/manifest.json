@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "UTTN Resumes",
+  "short_name": "UTTN Resumes",
+  "version": "io.cordova.hellocordova",
+  "description": "Find resumes of UTTN students, contact them, and hire your next future professional.",
+  "author": "UTTN Team",
+  "icons": [],
+  "start_url": "index.html"
+}
